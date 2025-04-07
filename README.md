@@ -72,7 +72,7 @@ Discord sunucumuzdaki Codum Bot, aşağıdaki özellikleri sunar:
 ### 🌐 Sosyal Platformlar
 - **Discord**: [discord.gg/codum](https://discord.gg/codum) - Canlı tartışmalar ve anlık yardım
 - **GitHub**: [github.com/codumdev](https://github.com/codumdev) - Açık kaynak projelerimiz
-- **Web**: [codum.dev](https://codum.dev) - Resmi web sitemiz ve dokümantasyon
+- **Web**: [codum.dev]([https://codum.dev](https://codum.com.tr/)) - Resmi web sitemiz ve dokümantasyon
 
 ### 💬 Destek Kanalları
 - **Teknik Destek**: Discord sunucumuzdaki `#yardım` kanalı
