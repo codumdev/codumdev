@@ -66,7 +66,7 @@ Discord sunucumuzdaki Codum Bot, aşağıdaki özellikleri sunar:
 - **Discord**: [discord.gg/codum](https://discord.gg/codum)
 - **GitHub**: [github.com/codumdev](https://github.com/codumdev)
 - **Web**: [codum.dev](https://codum.dev)
-- **E-posta**: info@codum.dev
+- **E-posta**: root@codum.com.tr 
 
 ---
 
