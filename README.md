@@ -12,7 +12,7 @@
 
 <div align="center">
   <br>
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" width="80%"/>
 </div>
 
 ## 📌 Hakkımızda
@@ -30,13 +30,13 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.imgur.com/YourCommunityImage.png" alt="Community" width="250"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png" alt="Community" width="250"/>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" width="80%"/>
 </div>
 
 ## 🌟 Özellikler
@@ -45,34 +45,34 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/CodeIcon.png" alt="Code Sharing" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" alt="Code Sharing" width="64"/>
         <br><strong>Kod Paylaşımı</strong>
         <br><small>Projelerinizi ve kod parçalarınızı toplulukla paylaşın</small>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/LanguageIcon.png" alt="Programming Languages" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" alt="Programming Languages" width="64"/>
         <br><strong>Programlama Dilleri</strong>
         <br><small>JavaScript, Python, TypeScript, C#, C++, HTML, PHP, Go ve daha fazlası</small>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/DiscordIcon.png" alt="Discord Integration" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord Integration" width="64"/>
         <br><strong>Discord Entegrasyonu</strong>
         <br><small>Aktif Discord topluluğu ve yardımcı botlar</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/LearningIcon.png" alt="Learning Resources" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" alt="Learning Resources" width="64"/>
         <br><strong>Öğrenme Kaynakları</strong>
         <br><small>Eğitim materyalleri ve rehberler</small>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/EventIcon.png" alt="Events" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2693/2693507.png" alt="Events" width="64"/>
         <br><strong>Etkinlikler</strong>
         <br><small>Kod yarışmaları, hackathonlar ve canlı kodlama oturumları</small>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/SupportIcon.png" alt="Support" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/1067/1067566.png" alt="Support" width="64"/>
         <br><strong>Topluluk Desteği</strong>
         <br><small>Sorularınıza hızlı yanıtlar ve yardım</small>
       </td>
@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" width="80%"/>
 </div>
 
 ## 🔧 Teknolojiler
@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" width="80%"/>
 </div>
 
 ## 🤖 Discord Botumuz
@@ -107,7 +107,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="https://i.imgur.com/BotImage.png" alt="Codum Bot" width="200"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" alt="Codum Bot" width="200"/>
     </td>
     <td width="60%">
       <p>Discord sunucumuzdaki Codum Bot, aşağıdaki özellikleri sunar:</p>
@@ -122,7 +122,7 @@
 </table>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" width="80%"/>
 </div>
 
 ## 🚀 Nasıl Katılabilirsiniz?
@@ -131,24 +131,24 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/DiscordJoin.png" alt="Join Discord" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Join Discord" width="64"/>
         <br><strong>1. Adım</strong>
         <br><a href="https://discord.gg/codum">Discord sunucumuza katılın</a>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/GitHubFollow.png" alt="Follow GitHub" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="Follow GitHub" width="64"/>
         <br><strong>2. Adım</strong>
         <br><a href="https://github.com/codumdev">GitHub hesabımızı takip edin</a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/Contribute.png" alt="Contribute" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Contribute" width="64"/>
         <br><strong>3. Adım</strong>
         <br>Projelerimize katkıda bulunun
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/Community.png" alt="Engage" width="64"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/745/745205.png" alt="Engage" width="64"/>
         <br><strong>4. Adım</strong>
         <br>Topluluğumuzla etkileşime geçin
       </td>
@@ -157,7 +157,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" width="80%"/>
 </div>
 
 ## 📊 İstatistikler
@@ -167,7 +167,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" width="80%"/>
 </div>
 
 ## 📞 İletişim & Topluluk
@@ -207,7 +207,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Separator" width="80%"/>
   <br><br>
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Codum%20Community-red" alt="Made with love" />
   <p>❤️ ile geliştiriciler için geliştiriciler tarafından yapıldı</p>
