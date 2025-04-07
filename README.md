@@ -5,7 +5,7 @@
   
   [![Discord](https://img.shields.io/discord/1350534369126776893?color=5865F2&logo=discord&logoColor=white&label=Discord)](https://discord.gg/codum)
   [![GitHub](https://img.shields.io/github/followers/codumdev?style=social)](https://github.com/codumdev)
-  [![Website](https://img.shields.io/badge/website-codum.dev-blue)](https://codum.dev)
+  [![Website](https://img.shields.io/badge/website-codum.com.tr-blue)](https://codum.com.tr/)
 </div>
 
 ## 📌 Hakkımızda
