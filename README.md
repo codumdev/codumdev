@@ -61,16 +61,33 @@ Discord sunucumuzdaki Codum Bot, aşağıdaki özellikleri sunar:
   <img src="https://github-readme-stats.vercel.app/api?username=codumdev&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
-## 📞 İletişim
-
-- **Discord**: [discord.gg/codum](https://discord.gg/codum)
-- **GitHub**: [github.com/codumdev](https://github.com/codumdev)
-- **Web**: [codum.dev](https://codum.dev)
-- **E-posta**: root@codum.com.tr 
-
----
+## 📞 İletişim & Topluluk
 
 <div align="center">
-  <p>© 2024 Codum. Tüm hakları saklıdır.</p>
+  <a href="https://discord.gg/codum"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/codumdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://codum.dev"><img src="https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" /></a>
+</div>
+
+### 🌐 Sosyal Platformlar
+- **Discord**: [discord.gg/codum](https://discord.gg/codum) - Canlı tartışmalar ve anlık yardım
+- **GitHub**: [github.com/codumdev](https://github.com/codumdev) - Açık kaynak projelerimiz
+- **Web**: [codum.dev](https://codum.dev) - Resmi web sitemiz ve dokümantasyon
+
+### 💬 Destek Kanalları
+- **Teknik Destek**: Discord sunucumuzdaki `#yardım` kanalı
+- **İş Birliği**: `info@codum.dev` adresine e-posta gönderin
+- **Geri Bildirim**: Discord'da `!şikayet` komutunu kullanın
+
+### 🤝 Katkıda Bulunun
+Codum topluluğuna katkıda bulunmak için:
+1. GitHub repolarımızı forklayın
+2. Değişikliklerinizi yapın
+3. Pull request gönderin
+4. Discord'da projelerinizi paylaşın
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Codum%20Community-red" alt="Made with love" />
+</div>.</p>
   <p>❤️ ile geliştiriciler için geliştiriciler tarafından yapıldı</p>
 </div>
